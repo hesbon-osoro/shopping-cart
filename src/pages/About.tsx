@@ -5,7 +5,7 @@ import MetaData from './MetaData';
 
 export const About = () => {
   const visitGithub = () => {
-    window.location = 'https://github.com/hesbon-osoro';
+    window.location.replace('https://github.com/hesbon-osoro');
   };
   return (
     <div className="aboutSection">

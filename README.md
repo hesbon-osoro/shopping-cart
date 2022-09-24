@@ -24,7 +24,7 @@ A Shopping Cart in React and TypeScript
 
 # Project Setup
 
-```code 
+```code
 # Clone this repo
 git clone https://github.com/hesbon-osoro/shopping-cart.git
 
